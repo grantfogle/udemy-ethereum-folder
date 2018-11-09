@@ -1,0 +1,4 @@
+link to grider's github: https://github.
+eth and btc whitepaper:
+ (https://bitcoin.org/bitcoin.pdf)
+(http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)
